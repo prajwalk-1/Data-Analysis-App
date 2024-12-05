@@ -1,8 +1,3 @@
-"""
-Created by Prajwal Kanade
-Portfolio Link: https://prajwalk-1.github.io/prajwalk-1/
-"""
-
 import pandas as pd
 import streamlit as st
 from sklearn.impute import SimpleImputer
