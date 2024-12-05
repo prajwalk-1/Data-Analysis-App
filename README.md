@@ -123,14 +123,12 @@ Download the cleaned dataset and save any visualizations as PNG images.
 
 ## **Screenshots**
 
-### **1. Home Page**
-_Add a screenshot of your app's home page here._
+![image](https://github.com/user-attachments/assets/6de794a7-e67c-4ce5-a3a9-2e1e4a990798)
 
-### **2. Data Cleaning Options**
-_Add a screenshot showing the sidebar with the cleaning options._
+![ID_histogram](https://github.com/user-attachments/assets/0bf262fd-eca9-4a3d-874e-3919fdc59dd2)
 
-### **3. Visualizations**
-_Add screenshots of the visualizations like histogram, boxplot, or heatmap._
+![correlation_heatmap](https://github.com/user-attachments/assets/5f9f2244-fe1d-4248-9c94-0ab707c889e3)
+
 
 ---
 
@@ -143,8 +141,3 @@ _Add screenshots of the visualizations like histogram, boxplot, or heatmap._
 - Push to the branch (`git push origin feature/your-feature`)
 - Open a pull request
 
----
-
-## **License**
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
