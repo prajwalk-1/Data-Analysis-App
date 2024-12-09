@@ -1,6 +1,6 @@
 # **Data Cleaning and Visualization Tool**
 
-A multilingual web-based application designed to make **data cleaning** and **visualization** faster, smarter, and easier! This tool enables users to handle missing data, remove outliers, clean text, create visualizations, and much more, all from a user-friendly interface powered by **Streamlit**.
+A web-based application designed to make **data cleaning** and **visualization** faster, smarter, and easier! This tool enables users to handle missing data, remove outliers, clean text, create visualizations, and much more, all from a user-friendly interface powered by **Streamlit**.
 
 ## **Features**
 
@@ -17,10 +17,6 @@ A multilingual web-based application designed to make **data cleaning** and **vi
 - **Histograms**: Visualize the distribution of numeric columns.
 - **Boxplots**: Easily detect outliers and understand data spread.
 - **Correlation Heatmaps**: Display relationships between numeric features.
-
-### 🌐 **Multilingual Support**
-- Available in **English** and **Türkçe**.
-- Language selection available in the sidebar for easy switching.
 
 ### 📂 **File Handling**
 - Supports **CSV**, **XLSX**, and **XLS** formats for uploading datasets.
@@ -73,10 +69,7 @@ A multilingual web-based application designed to make **data cleaning** and **vi
   - Histogram
   - Boxplot
   - Correlation heatmap
-
-- **🌐 Multilingual Support**:
-  - English and Turkish
-
+  - 
 - **📥 File Handling**:
   - Supports Excel (.xlsx, .xls) and CSV (.csv) formats
   - Download cleaned datasets
