@@ -35,7 +35,6 @@ LANGUAGES = {
     },
 }
 
-# Select language
 selected_language = st.sidebar.selectbox("Language", ["English"])
 language_text = LANGUAGES[selected_language]
 
