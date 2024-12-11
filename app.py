@@ -186,7 +186,7 @@ if uploaded_file:
 
         st.write(language_text["cleaned_data_label"])
         st.dataframe(cleaned_data.head())
-
+        
         # Sidebar: Visualization Options
         st.sidebar.title(language_text["visualization_section"])
         if st.sidebar.checkbox(language_text["histogram_option"]):
