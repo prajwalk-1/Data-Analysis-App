@@ -35,10 +35,10 @@ LANGUAGES = {
     },
 }
 
+
 selected_language = st.sidebar.selectbox("Language", ["English"])
 language_text = LANGUAGES[selected_language]
 
-# Display credits
 st.sidebar.markdown("**Created by [Prajwal Kanade](https://prajwalk-1.github.io/prajwalk-1/)**")
 
 # Load Data
