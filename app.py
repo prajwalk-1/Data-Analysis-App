@@ -74,7 +74,6 @@ def eliminate_outliers(dataframe):
         dataframe = dataframe[(dataframe[column] >= lower_bound) & (dataframe[column] <= upper_bound)]
     return dataframe
 
-# Remove duplicate rows
 def remove_duplicate_rows(dataframe):
     return dataframe.drop_duplicates()
 
