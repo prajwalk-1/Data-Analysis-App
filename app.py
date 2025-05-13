@@ -196,7 +196,6 @@ if uploaded_file:
         if st.sidebar.checkbox(language_text["correlation_heatmap_option"]):
             create_correlation_heatmap(cleaned_data)
 
-        # Download Cleaned Data
         csv_data = cleaned_data.to_csv(index=False).encode('utf-8')
         st.download_button(
             label=language_text["download_cleaned_data_option"],
