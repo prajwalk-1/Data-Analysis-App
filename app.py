@@ -41,7 +41,6 @@ language_text = LANGUAGES[selected_language]
 
 st.sidebar.markdown("**Created by [Prajwal Kanade](https://prajwalk-1.github.io/prajwalk-1/)**")
 
-# Load Data
 def load_dataset(file):
     if file is not None:
         file_extension = file.name.split('.')[-1]
